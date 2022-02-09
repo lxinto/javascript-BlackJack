@@ -1,0 +1,30 @@
+
+
+body {
+    background-color: rgb(0, 0, 77);
+    text-align: center;
+    color: goldenrod;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#btn {
+    background-color: goldenrod;
+    color:rgb(0, 0, 77);
+    width: 120px;
+    height: 30px;
+    border: none;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#Cards-el {
+    color: white;
+}
+
+#Dealer-Cards-el {
+    color: white;
+}
