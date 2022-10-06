@@ -57,7 +57,7 @@ function renderGame() {
     } if (playerStand === true) {
         
         if (dealerSum > 21) {
-            message = "Dealer busted! Congradulations!!!"
+            message = "Dealer busted! Congratulations!!!"
             if (setTimeout(function() {
                 
                 (confirm("Another one?!")); {
